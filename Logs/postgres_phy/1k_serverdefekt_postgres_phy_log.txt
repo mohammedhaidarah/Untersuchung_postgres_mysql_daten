@@ -1,0 +1,33 @@
+PostgreSQL Physical Backup Log
+------------------------------
+------------------------------
+backup_1 :
+Backup Time: 0.37 seconds
+Average CPU Usage: 55.6% 
+Average RAM Usage: 24.15%
+
+Restore backup_1 :
+Restore Time: 0.62 seconds
+Average CPU Usage: 59.599999999999994% 
+Average RAM Usage: 24.25%
+------------------------------
+backup_2 :
+Backup Time: 0.45 seconds
+Average CPU Usage: 65.65% 
+Average RAM Usage: 24.15%
+
+Restore backup_2 :
+Restore Time: 0.55 seconds
+Average CPU Usage: 61.95% 
+Average RAM Usage: 24.25%
+------------------------------
+backup_3 :
+Backup Time: 0.35 seconds
+Average CPU Usage: 65.1% 
+Average RAM Usage: 24.15%
+
+Restore backup_3 :
+Restore Time: 0.60 seconds
+Average CPU Usage: 59.05% 
+Average RAM Usage: 24.200000000000003%
+------------------------------

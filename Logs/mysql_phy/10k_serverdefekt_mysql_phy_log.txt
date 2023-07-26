@@ -1,0 +1,33 @@
+MySQL Physical Backup Log
+------------------------------
+------------------------------
+backup_1 :
+Backup Time: 0.86 seconds
+Average CPU Usage: 49.4% 
+Average RAM Usage: 21.5%
+
+Restore backup_1 :
+Restore Time: 1.12 seconds
+Average CPU Usage: 80.95% 
+Average RAM Usage: 21.1%
+------------------------------
+backup_2 :
+Backup Time: 0.46 seconds
+Average CPU Usage: 73.15% 
+Average RAM Usage: 21.55%
+
+Restore backup_2 :
+Restore Time: 1.15 seconds
+Average CPU Usage: 76.44999999999999% 
+Average RAM Usage: 21.450000000000003%
+------------------------------
+backup_3 :
+Backup Time: 0.47 seconds
+Average CPU Usage: 63.9% 
+Average RAM Usage: 21.5%
+
+Restore backup_3 :
+Restore Time: 1.08 seconds
+Average CPU Usage: 75.65% 
+Average RAM Usage: 21.549999999999997%
+------------------------------
