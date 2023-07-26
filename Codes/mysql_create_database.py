@@ -1,4 +1,4 @@
-import mysql.connector
+import mysql.connector 
 from faker import Faker
 import datetime
 
